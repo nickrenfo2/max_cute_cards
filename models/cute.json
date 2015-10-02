@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 0,
+    "link" : "/images/img1.gif"
+  },
+  {
+    "id" : 1,
+    "link" : "/images/img2.gif"
+  },
+  {
+    "id" : 2,
+    "link" : "/images/img3.gif"
+  },
+  {
+    "id" : 3,
+    "link" : "/images/img4.gif"
+  },
+  {
+    "id" : 4,
+    "link" : "/images/img5.gif"
+  },
+  {
+    "id" : 5,
+    "link" : "/images/img6.gif"
+  }
+]

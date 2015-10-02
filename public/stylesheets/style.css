@@ -1,0 +1,39 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.newDeck {
+  height: 100px;
+  background-color: aquamarine;
+  font-size: 40px;
+  font-family: 'Amatic SC', cursive;
+  font-weight: 700;
+  margin-top: 35px;
+}
+
+.refresh {
+  width: 100px;
+  margin: 0 auto;
+  display: block;
+  font-family: 'Amatic SC', cursive;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  background-color: hotpink;
+  bottom:0;
+  position: relative;
+}
+
+.img {
+  height:300px;
+}
